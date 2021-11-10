@@ -11,14 +11,14 @@ app.set('public',path.join(__dirname, '/public'));
 
 
 let Productos = {
-    "banana": {"name":"Banana",'precio': 30,"tipo":"Fruta","img": '/img/Banana.jpg','Cantidad': 3},
+    "banana": {"name":"Banana",'precio': 30,"tipo":"Fruta","img": '/img/Banana.jpg','Cantidad': 0},
     "kiwi":{"name":"Kiwi",'precio':50,"tipo":"Fruta","img": '/img/Kiwi.jpg','Cantidad': 5},
     "lechuga": {"name":"Lechuga",'precio': 20,"tipo":"Verdura","img": '/img/Lechuga.jpg','Cantidad': 10},
-    "limon":{"name":"Limon",'precio':25,"tipo":"Verdura","img": '/img/Limon.jpg','Cantidad': 4},
+    "limon":{"name":"Limon",'precio':25,"tipo":"Verdura","img": '/img/Limon.jpg','Cantidad': 0},
     "manzana": {"name":"Manzana",'precio':30,"tipo":"Fruta","img": '/img/Manzana.jpg','Cantidad': 20},
     "naranja": {"name":"Naranja",'precio':20,"tipo":"Fruta","img": '/img/Naranja.jpg','Cantidad': 0},
     "Papa":{"name":"Papa",'precio':30,"tipo":"Verdura","img": '/img/Papa.jpg','Cantidad': 12},
-    "pera": {"name":"Pera",'precio':35,"tipo":"Fruta","img": '/img/Pera.jpg','Cantidad': 2},
+    "pera": {"name":"Pera",'precio':35,"tipo":"Fruta","img": '/img/Pera.jpg','Cantidad': 0},
     "zanahoria":{"name":"Zanahoria",'precio':10,"tipo":"Verdura","img": '/img/Zanahoria.jpg','Cantidad': 8},
 }
 
