@@ -1,0 +1,24 @@
+{
+  "name": "veduleria",
+  "version": "1.0.0",
+  "description": "Verduleria Hector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LautaroE3/VerduleriaGaleria.git"
+  },
+  "author": "LautaroE3",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
